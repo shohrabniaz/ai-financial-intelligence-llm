@@ -1,10 +1,17 @@
 {
-  "seq": 56,
   "title": "AI-Powered Financial Intelligence: LLM Integration and Optimisation for Structured Data Insights",
-  "slug": "ai-powered-financial-intelligence-llm-integration-and-o",
+  "old_slug": "ai-powered-financial-intelligence-llm-integration-and-o",
+  "slug": "ai-financial-intelligence-llm",
   "folder": "Ai_Powered_Financial_Intelligence_Llm_Integration_And",
   "kind": "ai",
-  "body_words": 248,
+  "body_words": 313,
+  "source": "MICT Academic",
   "project_id": "Academic Project 3",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
